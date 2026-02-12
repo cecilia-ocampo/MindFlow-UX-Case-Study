@@ -29,8 +29,7 @@ Prototyping
 Design System  
 
 ## Demo
-Portafolio Figma:  
-(link aquí)
+https://www.figma.com/design/ySXSWUFxMAKnZokR51USDh/Projects-UX-UI---CECILIA-OCAMPO-%7C-C-9?node-id=3189-4288&t=Sw8oPxrz6GLZdpih-1
 
 ## Rol
 UX/UI Designer — proyecto individual
